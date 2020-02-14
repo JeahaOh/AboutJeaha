@@ -32,7 +32,9 @@
   - 대량의 GIS 데이터 Client/Server Side에서 유효성 체크 후 DB 업로드.
   - OpenLayers 6.0을 이용하여 HTML5에 지도 생성.
     - Feature 생성, 관리, 스타일 적용.
-    - 거리 측정.
+    - 지도 위의 거리 측정.
+  - Netty와 Telnet을 이용.
+    - 해수부에서 소켓통신으로 전송하는 선박 실시간 Packet 데이터 분석 파싱처리.
 - 개발 환경 : Windows 10, Windows Server 2008
 
 ---
