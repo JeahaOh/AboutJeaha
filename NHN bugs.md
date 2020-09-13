@@ -9,6 +9,9 @@
 
 ## 자신이 보유한 기술 (OS, Programming, Database 등)에 대하여 상세하게 기술 하시오
 
+프로젝트 환경 구축에서 db 설치 연계 개발 과정?  
+코엠 db 이전 및 실시간 데이터 연계 모듈로 db와 프로그래밍을 잘 했다. koem은 리눅스를 쓰고 있었다 라는 스토리?
+
 ### OS
 
 음악 전공을 하던 시절, Logic이라는 음악 제작 툴을 사용하기 위해 MacOS를 접하면서부터 macOS는 제 메인 OS가 되었습니다. 개발하면서 command line interface에 익숙해지고, 프로젝트 배포를 위해 Linux를 자주 접하게 되어 Windows, macOS, Linux 세 가지 OS를 모두 다룰 수 있습니다.  
